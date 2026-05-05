@@ -1,0 +1,114 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: a58443ae-0882-4670-ac15-74c053fff98c
+  title: Eaux, villes et changements climatiques
+  numbering:
+    title: true
+    start: 1
+  description: Vous avez à cœur la protection de l’eau? Vous souhaitez que les pratiques d’ingénierie et celles de toute la société se raffinent, en respect des limites planétaires de la ressource en eau? Ce cours est pour vous! Aucun prérequis.
+  keywords: [développement durable, polytechnique montréal, mooc]
+  github: https://github.com/bibliopolymtl
+  toc:
+  - file: introduction.md
+  - file: presentations.md
+
+  - file: module1/00-module1.md
+    children:
+    - file: module1/01-module1-1.md
+    - file: module1/02-module1-2.ipynb
+    - file: module1/03-module1-3.md
+      children:
+      - file: module1/04-module1-3-1.ipynb
+      - file: module1/05-module1-3-2.ipynb
+      - file: module1/06-module1-3-3.ipynb 
+    - file: module1/07-module1-4.ipynb
+    - file: module1/08-module1-5.md
+#    - file: module1/09-module1-6.md
+    - file: module1/10-module1-7.md
+#    - file: module1/11-module1-8.md
+
+  - file: module2/00-module2.md
+    children:
+    - file: module2/01-module2-1.md
+    - file: module2/02-module2-2.md
+      children:
+        - file: module2/03-module2-2-1.ipynb
+        - file: module2/04-module2-2-2.ipynb
+        - file: module2/05-module2-2-3.md
+    - file: module2/06-module2-3.md
+      children:
+      - file: module2/07-module2-3-1.ipynb
+      - file: module2/08-module2-3-2.ipynb
+    - file: module2/09-module2-4.ipynb
+    - file: module2/10-module2-5.md
+#    - file: module2/11-module2-6.md
+    - file: module2/12-module2-7.md
+#    - file: module2/13-module2-8.md
+    
+  - file: module3/00-module3.md
+    children:
+    - file: module3/01-module3-1.md
+    - file: module3/02-module3-2.md
+      children:
+      - file: module3/03-module3-2-1.ipynb
+      - file: module3/04-module3-2-2.ipynb
+      - file: module3/05-module3-2-3.ipynb
+    - file: module3/06-module3-3.ipynb
+    - file: module3/07-module3-4.ipynb
+    - file: module3/08-module3-5.md
+#    - file: module3/09-module3-6.md
+    - file: module3/10-module3-7.md
+#    - file: module3/11-module3-8.md
+  
+  - file: module4/00-module4.md
+    children:
+    - file: module4/01-module4-1.md
+    - file: module4/02-module4-2.ipynb
+    - file: module4/03-module4-3.md
+      children:
+      - file: module4/04-module4-3-1.ipynb
+      - file: module4/05-module4-3-2.ipynb
+      - file: module4/06-module4-3-3.ipynb
+    - file: module4/07-module4-4.ipynb
+    - file: module4/08-module4-5.md
+#    - file: module4/09-module4-6.md
+    - file: module4/10-module4-7.md
+#    - file: module4/11-module4-8.md
+
+  - file: module5/00-module5.md
+    children:
+    - file: module5/01-module5-1.md
+    - file: module5/02-module5-2.ipynb
+    - file: module5/03-module5-3.ipynb
+    - file: module5/04-module5-4.ipynb
+    - file: module5/05-module5-5.ipynb
+    - file: module5/06-module5-6.md
+#    - file: module5/07-module5-7.md
+    - file: module5/08-module5-8.md
+#    - file: module5/09-module5-9.md
+    
+#  - file: conclusion/00-conclusion1.md
+#    children:
+#    - file: conclusion/01-conclusion2.md
+
+  - file: lexique.md
+  bibliography:
+    - bibliographie/bibliographie1.bib
+    - bibliographie/bibliographie2.bib
+    - bibliographie/bibliographie3.bib
+    - bibliographie/bibliographie4.bib
+    - bibliographie/bibliographie5.bib
+  license:
+    content:
+      id: CC-BY-4.0
+    code:
+      id: MIT
+site:
+  template: book-theme
+  options:
+     favicon: favicon.ico
+     logo: ./images/site_logo.png
+     logo_dark: ./images/site_logo_dark.png
+     logo_text: MOOC - Eaux, villes et changements climatiques
+     style: poly.css
