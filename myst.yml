@@ -8,7 +8,7 @@ project:
     start: 1
   description: Vous avez à cœur la protection de l’eau? Vous souhaitez que les pratiques d’ingénierie et celles de toute la société se raffinent, en respect des limites planétaires de la ressource en eau? Ce cours est pour vous! Aucun prérequis.
   keywords: [développement durable, polytechnique montréal, mooc]
-  github: https://github.com/bibliopolymtl
+  github: https://github.com/bibliopolymtl/MOOC_Eaux_villes_et_changements_climatiques
   toc:
   - file: introduction.md
   - file: presentations.md
