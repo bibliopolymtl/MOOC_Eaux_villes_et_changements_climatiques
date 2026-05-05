@@ -90,5 +90,5 @@ Polytechnique Montréal
 Génie civil
 Polytechnique Montréal
 
-## Présentez-vous !
-Prenez quelques instants pour vous présenter. Qui êtes-vous? Où habitez-vous?  Où travaillez ou étudiez-vous? Quelles sont les raisons de votre inscription à ce cours? Quelles sont vos attentes?
+<!--## Présentez-vous !
+Prenez quelques instants pour vous présenter. Qui êtes-vous? Où habitez-vous?  Où travaillez ou étudiez-vous? Quelles sont les raisons de votre inscription à ce cours? Quelles sont vos attentes?-->
