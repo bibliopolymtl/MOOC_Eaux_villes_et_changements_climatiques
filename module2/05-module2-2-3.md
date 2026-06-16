@@ -8,11 +8,13 @@ Le **Canada**, et plus précisément **Montréal**, font partie des **plus grand
 
 Le tableau ci-dessous présente la **consommation** canadienne [@statcan], québecoise [@cirano] et montréalaise [@montreal2] d’eau potable du secteur résidentiel. Il convient toutefois de souligner que la **production** canadienne, québécoise et montréalaise totale d’eau potable inclut les secteurs résidentiel, industriel, commercial et institutionnel, ainsi que les pertes.
 
+:::{table} Consommation moyenne d'eau potable du secteur résidentiel et production totale d'eau potable au Canada, au Québec et à Montréal, 2019-2020
 | Eau potable (L/pers/j) | Consommation secteur résidentiel | Production totale |
 | :--- | :----: | ----: |
 | Canada | 215 | 411 |
 | Québec | 262 | 527 |
 | Montréal | 367 | 729 |
+:::
 
 Au Canada, le quart de l’eau potable produite est perdu en fuites et en bris. Un autre quart est consommé par les industries, commerces et institutions, alors que la consommation résidentielle compte pour la moitié restante tel qu’illustré par la figure suivante.
 
